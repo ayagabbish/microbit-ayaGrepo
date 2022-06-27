@@ -1,2 +1,2 @@
 # microbit-ayaGrepo
-a repo for my micro. Bit project
+its supposed to be an alarm system but to be honest i dont know what happened
